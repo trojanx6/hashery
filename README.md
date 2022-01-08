@@ -1,3 +1,2 @@
-kod
- 
-hasher yapici
+text enceyption yapıcı
+ Fikirlerinizi alırım :)
