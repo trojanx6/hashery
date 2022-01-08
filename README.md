@@ -1,0 +1,2 @@
+# hashery
+Hasher yapıcı.
