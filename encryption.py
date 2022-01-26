@@ -6,7 +6,7 @@ print("""
      metin şifreleme
               
 instagram: dridex_trojan_lockbit
-versiyon: 1.v
+versiyon: 2.v
       """)
 print("-"*30)             
 print(""" 
