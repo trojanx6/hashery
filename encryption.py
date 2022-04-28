@@ -5,7 +5,7 @@ print("""
      text encryption  
      metin şifreleme
               
-instagram: dridex_trojan_lockbit
+instagram: SpyGoldEye
 versiyon: 2.v
       """)
 print("-"*30)             
